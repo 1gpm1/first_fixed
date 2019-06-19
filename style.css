@@ -1,0 +1,163 @@
+.text__proverb{
+	position:absolute;
+	top:425px;
+	left:75px;
+	font-size:20pt;
+	color:white;
+}
+.text__main{
+	position:absolute;
+	top:500px;
+	left:75px;
+	font-size:8pt;
+	color:white;
+}
+body{
+	background:url(https://avatars.mds.yandex.net/get-pdb/1040792/533124cf-b47a-4a70-9bff-15f0de06d422/s1200) no-repeat;
+	background-size:100%;
+
+}
+.button__more{
+	position:absolute;
+	height:40px;
+	width:150px;
+	top:560px;
+	left:75px;
+	color:white;
+	border:1px solid white;
+	border-radius:5%;
+	text-align:center;
+	padding-top:20px
+}
+.button__apply{
+	position:absolute;
+	height:40px;
+	width:150px;
+	top:560px;
+	left:245px;
+	color:white;
+	border:1px solid white;
+	border-radius:5%;
+	text-align:center;
+	padding-top:20px;
+}
+
+.header{
+	display:flex;
+	justify-content:center;
+	align-items:stretch;
+}
+.header ul li {
+	float:left;
+}
+.header__title{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:260px;
+	font-size:20pt;
+	text-align:center;
+	line-height:32px;
+	padding-top:10px;
+
+}
+.header__home{
+	padding:10px;
+	background-color:red;
+	height:35px;
+	width:55px;
+	font-size:15pt;
+	text-align:center;
+	line-height:32px;
+	color:white;
+	padding-top:10px;
+}
+.header__info{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:55px;
+	font-size:15pt;
+	text-align:center;
+	line-height:32px;
+	color:black;
+	padding-top:10px;
+}
+.header__cources{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:70px;
+	font-size:15pt;
+	text-align:center;
+	line-height:32px;
+	color:black;
+}
+.header__event{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:55px;
+	font-size:15pt;
+	text-align:center;
+	line-height:32px;
+	color:black;
+}
+.header__news{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:45px;
+	font-size:15pt;
+	text-align:center;
+	line-height:32px;
+	color:black;
+}
+.header__alumni{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:65px;
+	font-size:15pt;
+	text-align:center;
+	line-height:32px;
+	color:black;
+}
+.header__contact{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:90px;
+	font-size:15pt;
+	text-align:center;
+	line-height:32px;
+	color:black;
+}
+.search{
+	padding:10px;
+	background-color:silver;
+	height:35px;
+	width:30px;
+	font-size:15pt;
+	text-align:center;
+	line-height:32px;
+	color:black;
+}
+.image__search{
+	position:relative;
+	height:15px;
+	width:15px;
+	margin:7px
+}
+.image__hat{
+	position:relative;
+	height:35px;
+	width:35px;
+}
+.image__girl{
+	position:absolute;
+	bottom:0px;
+	right:750px;
+	height:550px;
+}
+
